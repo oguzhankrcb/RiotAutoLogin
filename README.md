@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/8e289100-18b7-4ab6-ba29-9a456a187cfa)
+
 # RiotAutoLogin
 
 RiotAutoLogin is a C# application designed to automate the login process for the game League of Legends. By interacting with the League Client API, it streamlines user authentication, allowing for a seamless and efficient login experience.
